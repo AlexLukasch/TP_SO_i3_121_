@@ -15,3 +15,20 @@ Comandos usados:
 -git add .
 -git commit -m "Punto 5"
 -git push
+
+d-Si, quedan con los datos de la rama main al momento de hacer la nueva rama.
+e-El problema que se tuvo fue el conflicto de merge, aparentemente ocurrio porque
+no se pudo realizar el merge automatico, y git aviso que debia solucionarse
+manualmente. En el archivo en conflicto, estaban presentes los datos de ambas
+ramas al momento de hacer el merge (eran los primeros 4 renglones).
+Beta decidio con que datos quedarse en el archivo en conflicto y luego confirmo
+los cambios.
+f-(al no haber gamma se salteo).
+g-Debio hacerse pull para actualizar el repo local y traer las nuevas ramas,
+debio cambiarse a la rama nueva para poder modificar el archivo.
+-git pull
+-git checkout Punto6
+(se modifico el archivo)
+-git add .
+-git commit -m "agrego interaccion de alfa"
+-git push

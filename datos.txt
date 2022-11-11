@@ -2,3 +2,14 @@ Nombre: Alexander
 Apellido: Lukasch Belbey
 IP de la máquina: 190.19.168.196
 Hora: 21:34:50
+
+Nombre: Mauro
+Apellido : Luciano
+IP de la Maquina : 186.57.79.144
+Hora: 21:57:12
+
+Nombre: Alexander
+Apellido : Lukasch Belbey
+IP de la Maquina : 190.19.168.196 
+Hora: 22:09:59
+

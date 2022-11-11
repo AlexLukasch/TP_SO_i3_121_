@@ -1,0 +1,17 @@
+Participantes:
+Lukasch Belbey Alexander 
+Luciano Mauro
+a-Luego de los ultimos merge, el Master tiene los datos de todas las ramas que fuimos agregando.
+b-Si, Beta puede ver todos los cambios realizados por los participantes.
+c-Primero pulleo los cambios, luego chequee las ramas en git bash, luego me cambie a la rama main para mergear las ramas de GAMMA y ALFA. Resolví el conflicto del merge y lo pushee.
+
+Comandos usados:
+-git pull
+-git checkout
+-git checkout main
+-git merge origin/Lukasch
+-git merge origin/Luciano
+(aca resolvi manualmente el conflicto)
+-git add .
+-git commit -m "Punto 5"
+-git push

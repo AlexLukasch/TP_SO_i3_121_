@@ -39,3 +39,52 @@ Adaptador de LAN inalámbrica Conexión de área local* 2:
 PS C:\Users\pc>
 
 Hora: 22:30:31
+
+Nombre: Mauro
+Apellido : Luciano
+
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet vEthernet (WSL):
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::1d34:4929:570c:69da%41
+   Dirección IPv4. . . . . . . . . . . . . . : 172.31.64.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::59b6:a494:cd53:3bf8%10
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.37
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::7de4:59b1:f67c:3cd9%12
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet ZeroTier One [af78bf9436fa1f8e]:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::3f:d165:f50b:11b9%4
+   Dirección IPv4. . . . . . . . . . . . . . : 172.27.232.112
+   Máscara de subred . . . . . . . . . . . . : 255.255.0.0
+   Puerta de enlace predeterminada . . . . . : 25.255.255.254
+
+Adaptador de Ethernet ZeroTier One [12ac4a1e7140aff4]:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::f4ff:fd4c:a8:9bc0%14
+   Dirección IPv4. . . . . . . . . . . . . . : 10.147.19.126
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 25.255.255.254
+
+Hora : 22:33:28
